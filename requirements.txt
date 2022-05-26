@@ -1,0 +1,8 @@
+You need to have instaled:
+	python3
+pips:
+	Flask
+	Urllib
+	Json
+	Requests
+	Flask_restful
